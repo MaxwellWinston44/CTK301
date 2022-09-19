@@ -1,0 +1,42 @@
+#yellowback{
+    background-color: yellow;
+  }
+
+  #turnred{
+    color: red;
+  }
+
+  a:link {
+    color: green;
+  }
+
+  a:hover {
+    color: red;
+  }
+
+  a:visited {
+    color: orange;
+  }
+
+  a:active {
+    color: #00ffff;
+  }
+
+  #blueback{
+      background-color: blue;
+    }
+
+    h2 {
+      color: red;
+      background-color: #red;
+    }
+
+    h1 {
+      color: white;
+      background-color: #white;
+    }
+
+    h3 {
+      color: blue;
+      background-color: #blue;
+    }
