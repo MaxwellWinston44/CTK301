@@ -1,0 +1,84 @@
+body {
+  background-image: url(a5bg.png);
+  background-repeat: repeat
+  background-position: top left;
+}
+
+h1 {
+  margin: 20px 20px 20px 20px;
+  Padding: 20px;
+  width: 1265px;
+  background-color: white;
+  display: inline-block;
+}
+
+h1 {
+  font-weight: normal;
+  font-family: Helvetica;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: Helvetica;
+  border-bottom: 3px solid black;
+  padding-bottom: 20px;
+  margin: 20px 20px 20px 20px;
+}
+
+nav ul {
+  list-style-type: none;  /* none, disc, circle, square */
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  border: 0px solid black;
+  margin: 20px 20px 20px 20px;
+  Padding: 0px;
+  Background-Color: #000080;
+  width: 150px;
+  color: white;
+  display: inline-block;
+}
+
+nav ul li a {
+  color: white;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: blue;
+}
+
+#color a:hover{
+  color: red
+}
+
+#color {
+  border: 0px solid black;
+  margin: 20px 20px 20px 20px;
+  Padding: 0px;
+  Background-Color: white;
+  width: 1300px;
+}
+
+#colour {
+  border: 1px solid white;
+  margin: 20px 20px 20px 20px;
+  Padding: 20px;
+  Background-Color: #000080;
+  width: 1260px;
+}
+
+.customtext{
+  text-align: center;
+}
+
+footer {
+  font-weight: bold;
+  font-family: verdana;
+  font-style: italic;
+  color: white;
+}
