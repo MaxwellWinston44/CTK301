@@ -1,0 +1,113 @@
+
+body {
+  background-color: lightblue;
+}
+
+#wrapper {
+  margin: 24px auto;
+  width: 1200px;
+  padding: 24px;
+  background-color: #ffffff;
+}
+
+h1{
+  border-bottom: 5px solid #D16587;
+  color: #D16587;
+  box-shadow: 0px 10px 10px #666;
+}
+
+h1 a{
+  color: #D16587;
+  text-decoration: none;
+}
+
+h1 a:hover{
+  color: purple;
+}
+
+#photo{
+  background: #D16587;
+  margin-right: 0px;
+  color: White;
+  font-family: Helvetica;
+  padding-top: 15px;
+  padding-right: 15px;
+  float: left;
+}
+
+#intro{
+  margin-left: 3px;
+}
+
+#intro a{
+  color: white;
+  text-decoration: none;
+}
+
+#intro a:hover{
+  color: purple;
+  text-decoration: none;
+}
+
+.floatimage {
+  width: 450px;
+  margin-left: 15px;
+}
+
+nav ul {
+  list-style-type: none;  /* none, disc, circle, square */
+  margin-top: 0px;
+  padding: 0px;
+}
+
+nav li {
+  border: 0px solid black;
+  margin: 20px 20px 20px 20px;
+  margin-left: 500px;
+  padding-right: 450px;
+  Background-Color: #D16587;
+  width: 250px;
+  border-radius: 50px;
+  color: white;
+  margin-bottom: 65px;
+  }
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+}
+
+#jojo{
+  background-color: #D16587;
+  text-align: justify;
+  color: white;
+  padding: 10px;
+    font-family: 'Xanh Mono', monospace;
+}
+
+footer{
+  background-color: #D16587;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  font-family: Helvetica;
+  margin-top: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding-top: 26px;
+  padding-bottom: 26px;
+  padding-right: 660px;
+  padding-left: 40px;
+
+}
+
+nav li a:hover {
+  background-color: purple;
+  border-radius: 50px;
+  box-shadow: 0px 10px 10px #666;
+  transition: background-color 1.0s, width 2.0s, color 2.0s;
+}
